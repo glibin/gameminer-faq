@@ -2,7 +2,7 @@
 
 [GameMiner.net](http://gameminer.net/) is a unique and cool place where you can win Steam games absolutely for free.
 
-## How do I win? And how can I increase my chance of wining?
+## How do I win? And how can I increase my chances of winning?
 
 Participate in various giveaways. There is no way to increase your chance because the winner is picked randomly from all the giveaway participants. But if you choose a giveaway with less people in it - your chances increase. 
 
@@ -35,13 +35,13 @@ Level is what distinguishes boy from man. The higher your level is, the more coa
 The only way to increase your level is to create giveaways. That is our way in saying "thank you" to contributors.
 All info about levels you can find [here](http://gameminer.net/forum/1/2069).
 
-## How to create Giveaways?
+## How do I create a giveaway?
 
 Go here: [http://gameminer.net/giveaway/create](http://gameminer.net/giveaway/create) Choose the game. If there is no game in list, don’t try to choose similar - you will be banned. After selecting the game you can change the distribution of additional parameters, such as price and expiration date. There is no time limit for Gifts, but it is not recommended to put giveaway more than couple of months. The maximum giveaway running time for keys is 1 week.  
 [How to send a Steam gift (With pictures!)](http://gameminer.net/instruction)  
 [Detailed instructions for creating giveaways (with pictures) from Gis_Nohus. Only RU now, but will be translited soon.](http://gameminer.net/forum/1/18805)
 
-## Can i create giveaway using the game from my Steam library?
+## Can I create giveaway using the game from my Steam library?
 
 No you can’t! Once you activated the game to your account you can't extract it back. For giveaways you can only use gifts from youy inventory or steam-keys.
 
@@ -95,11 +95,11 @@ Invites will be avalible on the next day.
 
 ## Who are moderators on this site?
 
-RU moders: [Anthony](http://gameminer.net/profile/Anthony), [Bee](http://gameminer.net/profile/Bee), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [Schweps](http://gameminer.net/profile/Schweps), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol),  
+RU mods: [Anthony](http://gameminer.net/profile/Anthony), [Bee](http://gameminer.net/profile/Bee), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [Schweps](http://gameminer.net/profile/Schweps), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol),  
 English moders: [devil](http://gameminer.net/profile/devil), [ErnisD](http://gameminer.net/profile/ErnisD)  
 You can ask them if you need some help..
 
-## Where i can get crates?
+## Where can I get crates?
 
 Crates drops for playing mini-slots, for creating and entering giveaways. News anout it: [http://gameminer.ru/news/78](http://gameminer.ru/news/78) In future there will be a trade function and you will be able to trade for items from your Gameminer-inventory on the boxes / keys / paint and other stuff
 
@@ -119,55 +119,35 @@ At tis moment - in no ways! Trade promised to introduce by the end of August / m
 
 Gold, Coal, Curse, Blessing, Acid, Nickname Change, Title change, Paint for nickname, Paint for title, Game (Gift or key).  
 **Gold/Coal** - pretty self-еxplanatory.
-**Curse/Blessing** - allows you to place a small (up to 255 characters), the message in the profile of a friend or foe on the site.  
+**Curse/Blessing** - allows you to put a message in the profile of a friend or foe on the site.  
 **Acid** - allows you to "wash away" one curse/blessing in your profile.  
-**Nick Change/Title change** - allows you to change nick or title for free (scroll disappears after use)  
-**Paint** - paints a nickname/title. (To see paint you need to re-login)  
-**Game** - congratulations! You won a game. You will receive PM. List of games that can drop from crates, can be found [here](http://gameminer.ru/drop/gifts).
+**Name Deed/Status Deed** - allows you to change user name or status for free (scroll disappears after use)  
+**Dye** - Dyes a nickname/stauts. (To see your new color you need to re-login)  
+**Game** - congratulations! You have won a game. You will receive a PM. List of games that can drop from crates can be found [here](http://gameminer.ru/drop/gifts).
 
-## Curse or blessing affects for a chance to win?
+## Do curses or blessings affect my chance to win?
 
-No. It’s only for beauty. (Kinda replacement of boring reputation system).
+No, it is some sort of replacement for boring reputation system).
 
-## For what you can get ban? And if I was banned - how to unban?
+## What should I do to get banned here?
 
-Banns:  
-+ Fake giveaways
-+ Multi accs
-+ Begging/Spam/Referrlal links (No matter where, whether in chat, comment, or PM)
+These are the reasons that will get you banned:
++ Creating fake giveaways
++ Having more than 1 account
++ Begging/Spam/Referrlal links 
 + Violation of the [chat rules](http://gameminer.net/forum/1/14297)  
-If you are banned - then unban, alas, will not be out.
 
-## I want to sell the game / thing, but I do not want to create a thread in the forum, is it possible?
+## I want to sell a game or an item, but I do not want to create a thread in the forum, is it possible?
 
-Yes, the offer can be left in the trade chat. To get there, you press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For sale / exchange games) .
+Yes, you can use the trade chat. To get there, you press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For sale / exchange games) .
 
 ## I want to sell Steam/Origin accs, where and how can I do that?
 
 Sale of accounts is carried out only on the [Black Market](http://gameminer.net/forum/3)  
-Throw references of black market into chat prohibited.
 
-## When will the next FastMiner and what is it?
+## Where I can find your news archive?
 
-Next FastMiner (Number 3) scheduled for the end of August - mid September  
-Meaning of event - creation of set of of fast (10 minutes) giveaways with the cost of inputs in 1 gold.  
-To create event giveaway you need to go here [FastMiner](http://gameminer.net/giveaway/create?event=true), Choose game and send gift, as always  
-For giveaways accept only full games cost from $ 10.  
-All giveaways will be launched automaticaly during the event, so you don’t have to choose ending time or price  
-For each event giveaway will be credited with additional experience (shows at once when creating giveaway). The value of the bonus depends on the value of the game. For example, at a cost of $ 10 game you get 10% extra experience. At a cost of $ 20 a game you already get 20% more experience.  
-![картинка](http://i.gameminer.ru/a/c/2/ac20f99ec9af1ab175df156ac42e8d19.png)  
-Everyone who created at least 1 event giveaway will get "Lightning miner" achivement. Each winner will receive the achievement of "Fast and lucky". Well, the top 10 contributors will achieve "Epic Fastpoke".
-
-## Where you can read the latest news GameMiner?
-
-The latest news is always posted on the main page right above your nickname. Older news can be found in a [special section](http://gameminer.net/news).
-
-## When was opened GameMiner.net?
-
-Site opened June 8, 2012.
-
-
-
+The latest news link is always posted on the main page right above your nickname. Older news can be found in a [special section](http://gameminer.net/news).
 
 
 **The authors FAQ:**  
