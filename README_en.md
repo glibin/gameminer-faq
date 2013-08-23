@@ -37,7 +37,7 @@ All info about levels you can find [here](http://gameminer.net/forum/1/2069).
 
 ## How to create Giveaways?
 
-Go here: http://gameminer.net/giveaway/create Choose the game. If there is no game in list, don’t try to choose similar - you will be banned. After selecting the game you can change the distribution of additional parameters, such as price and expiration date. There is no time limit for Gifts, but it is not recommended to put giveaway more than couple of months. The maximum time to hand out the key - 1 week.  
+Go here: [http://gameminer.net/giveaway/create](http://gameminer.net/giveaway/create) Choose the game. If there is no game in list, don’t try to choose similar - you will be banned. After selecting the game you can change the distribution of additional parameters, such as price and expiration date. There is no time limit for Gifts, but it is not recommended to put giveaway more than couple of months. The maximum time to hand out the key - 1 week.  
 [How to send a Steam gift (With pictures!)](http://gameminer.net/instruction)  
 [Detailed instructions for creating giveaways (with pictures) from Gis_Nohus. Only RU now, but will be translited soon.](http://gameminer.net/forum/1/18805)
 
@@ -90,7 +90,7 @@ No way. We will ban you and eat your cookies!
 
 ## Where can I get an invite? And why is it needed?
 
-Invite - code that you need to register on site. You can get it here: http://gameminer.net/account/invites (generated once a day), or here: http://games-gen.com/GM-invite (collection of invitations from old-timers and admins)
+Invite - code that you need to register on site. You can get it here: [http://gameminer.net/account/invites](http://gameminer.net/account/invites) (generated once a day), or here: [http://games-gen.com/GM-invite](http://games-gen.com/GM-invite) (collection of invitations from old-timers and admins)
 
 ## I've registered but when i press «Invite friend» button, there are nothing?
 
@@ -104,15 +104,15 @@ You can ask them if you need some help..
 
 ## Where i can get crates?
 
-Crates drops for playing mini-slots, for creating and entering giveaways. News anout it: http://gameminer.ru/news/78 In future there will be trade function, and you will be able to trade for items from your Gameminer-inventory on the boxes / keys / paint and other stuff
+Crates drops for playing mini-slots, for creating and entering giveaways. News anout it: [http://gameminer.ru/news/78](http://gameminer.ru/news/78) In future there will be trade function, and you will be able to trade for items from your Gameminer-inventory on the boxes / keys / paint and other stuff
 
 ## Where i can get the key for crates?
 
-At this moment you can only buy it. Here: http://gameminer.ru/inventory/keys (1 key = 20 gold)
+At this moment you can only buy it. Here: [http://gameminer.ru/inventory/keys](http://gameminer.ru/inventory/keys) (1 key = 20 gold)
 
 ## How to open crate?
 
-Go to inventory: http://gameminer.net/profile/[your_nickname]/inventory Choose key, press «Use». Then choose crate, that you like. After opening you will see your loot from crate. Crate and key will dissappear after use.
+Go to inventory: [http://gameminer.net/account/inventory](http://gameminer.net/account/inventory) Choose key, press «Use». Then choose crate, that you like. After opening you will see your loot from crate. Crate and key will dissappear after use.
 
 ## How do I pass Crate /Stuff to another user?
 
@@ -135,10 +135,10 @@ No. It’s only for beauty. (Kinda replacement of boring reputation system).
 ## For what you can get ban? And if I was banned - how to unban?
 
 Banns:  
-* Fake giveaways
-* Multi accs
-* Begging/Spam/Referrlal links (No matter where, whether in chat, comment, or PM)
-* Violation of the [chat rules](http://gameminer.net/forum/1/14297)  
++ Fake giveaways
++ Multi accs
++ Begging/Spam/Referrlal links (No matter where, whether in chat, comment, or PM)
++ Violation of the [chat rules](http://gameminer.net/forum/1/14297)  
 If you are banned - then unban, alas, will not be out.
 
 ## I want to sell the game / thing, but I do not want to create a thread in the forum, is it possible?
@@ -175,5 +175,5 @@ Site opened June 8, 2012.
 
 **The authors FAQ:**  
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel  
-**Version 1.1 from 21.08.2013**  
+**FAQ updated 23.08.2013**  
 **Translited by Gis_Nohus**
