@@ -182,4 +182,4 @@
 
 **Авторы FAQ:**  
 Администрация Gameminer.ru, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel  
-**FAQ обновлен 06.11.2013**
+**FAQ обновлен 16.11.2013**
