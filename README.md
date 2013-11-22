@@ -104,7 +104,7 @@
 ## Кто является модератором на сайте?
 
 Модераторами сайта в данный момент являются: [Anthony](http://gameminer.ru/profile/Anthony), [Bee](http://gameminer.ru/profile/Bee), [Haoose](http://gameminer.ru/profile/Haoose), [LordConqueror](http://gameminer.ru/profile/LordConqueror), [Schweps](http://gameminer.ru/profile/Schweps), [sputNIK37](http://gameminer.ru/profile/sputNIK37), [yurijpol](http://gameminer.ru/profile/yurijpol),  
-Англоязычные модераторы: [devil](http://gameminer.ru/profile/devil), [ErnisD](http://gameminer.ru/profile/ErnisD)  
+Англоязычные модераторы: [devil](http://gameminer.ru/profile/devil), [ErnisD](http://gameminer.ru/profile/ErnisD), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
 К ним можно обращаться по разным проблемам.
 
 ## Где взять ящики?
@@ -183,4 +183,4 @@
 
 **Авторы FAQ:**  
 Администрация Gameminer.ru, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel  
-**FAQ обновлен 16.11.2013**
+**FAQ обновлен 23.11.2013**
