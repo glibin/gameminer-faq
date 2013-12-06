@@ -33,7 +33,7 @@ You can join all you want, and sharing is always voluntary. But remember: girls 
 
 Level is what distinguishes a boy from man. The higher your level is, the more coal you get per hour, invites per day and girls per lifetime. Also you can bump your trade topic more often.
 The only way to increase your level is to create giveaways. That is our way of saying "Thank you" to contributors.
-You can find info about levels here[here](http://gameminer.net/forum/1/2069).
+You can find more information about levels here[here](http://gameminer.net/forum/1/2069).
 
 ## How do I create a giveaway?
 
@@ -51,7 +51,7 @@ No you can’t! Once you have activated a game you can't give it to someone else
 You will receive 10% of all gathered coal from common giveaway and 50% of all gathered gold from gold giveaway.
 Also you will get some experience based on the price of the game.
 
-## I already own the game, can I still win it?
+## I already own the game; can I still win it?
 
 Sure, be our guest. 
 
