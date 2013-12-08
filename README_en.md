@@ -4,15 +4,15 @@
 
 ## How do I win? And how can I increase my chances of winning?
 
-By participate in various giveaways. There is no way to increase your chance because the winner is picked randomly from all the giveaway participants. But if you choose a giveaway with less people in it - your chances increase. 
+By participating in various giveaways. There is no way to increase your chance because the winner is picked randomly from all the giveaway participants. But if you choose a giveaway with less people in it, your chances increase. 
 
 ## How do you get so many games to give away?
 
-Common people like you and me give away some cool stuff here. Yea, that's right, sharing is cool.
+Common people like you and me give away some cool stuff here. Yeah, that's right, sharing is cool.
 
 ## What are gold and coal? How do I get them?
 
-These are resources that you can use to join giveaways. Coal is free and replenishes hourly. Gold is way cooler, but you have to buy it or earn by creating gold giveaways. Minimum purchase amount - 20 gold.
+These are the resources that you use to join giveaways. Coal is free and replenishes hourly. Gold is way cooler, but you have to buy it or earn by creating gold giveaways. Minimum purchase amount - 20 gold.
 
 ## What happens to my coal if I get bonus coal from creating a giveaway and it exceeds the maximum amount mentioned in my profie?
 
@@ -20,9 +20,9 @@ You will get all the coal you've earned from your giveaway. Maximum coal is the 
 
 ## What's the difference between private, golden and regular giveaways? And what is sandpit?
 
-Common giveaways are cornerstone of GameMiner.net. Most games are being given away through common giveaways. But all the expensive or very neat games are usually given away in gold giveaways. Also, there are much less participants, so your chances to win are way higher.  
-We use profits that come from gold giveaways towards site upkeep. Zag-zag.  
-In Private giveaway you can give away everything you want (even your stinky socks), but for private give away you won't get experience or any resource.  
+Common giveaways are cornerstone of GameMiner.net. Most games are being given away through common giveaways. But all the expensive or very neat games are usually given away in gold giveaways. Also, there are less participants, so your chances to win are way higher.  
+And we use profits that come from gold giveaways towards site upkeep. Zag-zag.  
+In Private giveaway, you can give away everything you want (even your stinky socks), but in private giveaway you won't earn experience or resources.  
 The sandpit giveaways are created by new members who have't given away any games or have only given a few approved giveaways. You should enter them with caution, especially if it's an expensive game..
 
 ## Is it mandatory to create giveaways? Can I just join all the giveaways instead of creating them?
@@ -37,12 +37,14 @@ You can find more information about levels [here](http://gameminer.net/forum/1/2
 
 ## How do I create a giveaway?
 
-Go here: [http://gameminer.net/giveaway/create](http://gameminer.net/giveaway/create)
-Choose the game. If there is no game in list, don’t try to choose similar - you will be banned. After selecting the game, you can change the distribution of additional parameters, such as price and expiration date. There is no time limit for Gifts, but it is not recommended to put giveaways for more than couple of months. The maximum giveaway running time for keys is 1 week.  
+Go here: [http://gameminer.net/giveaway/create](http://gameminer.net/giveaway/create) 
+Choose the game. If the game you're trying to giveaway is not in the list, don’t try to choose it - you will be banned. 
+After selecting the game, you can change the distribution of additional parameters, such as price and expiration date. 
+There is no time limit for gifts, but it is not recommended to put giveaways for more than couple of months. The maximum giveaway running time for keys is 1 week. 
 [How to send a Steam gift (With pictures!)](http://gameminer.net/instruction)  
 [Detailed instructions for creating giveaways (with pictures) from Gis_Nohus. Only RU now, but will be translited soon.](http://gameminer.net/forum/1/18805)
 
-## Can I create giveaway using the game from my Steam library?
+## Can I create giveaway using games from my Steam library?
 
 No you can’t! Once you have activated a game you can't give it to someone else. For giveaways you can only use gifts from your inventory or steam-keys.
 
@@ -59,7 +61,7 @@ Sure, be our guest.
 
 No.
 
-##  Giveaway which I entered was deleted; will I get back coal/gold?
+## A giveaway which I entered was deleted; will I get back my coal/gold?
 
 Yes, you will get back your gold. But no, you will not get back your coal.
 
@@ -71,7 +73,7 @@ Yes, but it’s on your own risk as if the kay is invalid **You** will take all 
 
 Well, you have few ways:
 * The easiest way - press «Key is invalid» and forget about it.
-* You can PM creator and ask him change key, if he would.
+* You can PM the creator and ask him to change key, if he would.
 
 ## Okay, so I won. How do I get my precious game? And what to do if I still didn't receive the gift?
 
@@ -80,11 +82,11 @@ If you still didn’t receive your gift via e-mail, that means that Steam-server
 
 ## What type of games can I contribute?
 
-We accept Steam gifts and keys that are redeemable on Steam. Betas or demos are forbidden. If you would like to contribute non-steam key, you should contact the administration first.
+We accept every type of Steam gifts and keys that are redeemable on Steam. Betas or demos are forbidden. If you would like to contribute non-steam key, you should contact the administration first.
 
 ## Tournaments?
 
-These are special events created by admins or regular users. They use tournament grid to determine winner or winners. More info is usually available in a specific tournament itself.
+These are special events created by admins or regular users. They use tournament grid to determine winners. Since the rules for tournaments vary, further information is provided in the related thread / post.
 
 ## Can I have more than one account?
 
@@ -96,11 +98,11 @@ Invite is a code that you need to register on GameMiner. You can get it here: [h
 
 ## I've registered but when I press «Invite friend» button, there is nothing.
 
-Invites will be avalible on the next day.
+Invites will be avalible from the next day.
 
 ## Who are moderators on this site?
 
-RU mods: [Anthony](http://gameminer.net/profile/Anthony), [Bee](http://gameminer.net/profile/Bee), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [Schweps](http://gameminer.net/profile/Schweps), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol),  
+RU mods: [Anthony](http://gameminer.net/profile/Anthony), [Bee](http://gameminer.net/profile/Bee), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [Schweps](http://gameminer.net/profile/Schweps), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol)  
 English mods: [devil](http://gameminer.net/profile/devil), [ErnisD](http://gameminer.net/profile/ErnisD), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
 You can ask them if you need some help.
 
@@ -110,17 +112,17 @@ Crates drops for given for playing mini-slots, for creating and entering giveawa
 
 ## Where can I get a key for my crates?
 
-At this moment you only option is to buy them. Here: [http://gameminer.ru/inventory/keys](http://gameminer.ru/inventory/keys) (1 key = 20 gold)
+At this moment your only option is to buy them. Here: [http://gameminer.ru/inventory/keys](http://gameminer.ru/inventory/keys) (1 key = 20 gold)
 
 ## How to open crate?
 
-Go to inventory: [http://gameminer.net/account/inventory](http://gameminer.net/account/inventory) Choose key, press «Use». Then choose crate, that you like. After opening you will see your loot from the crate. Crate and key will dissappear after use.
+Go to inventory: [http://gameminer.net/account/inventory](http://gameminer.net/account/inventory) Choose key, press «Use». Then choose the crate you like. After opening it you will see your loot from the crate. The crate and key will dissappear after use.
 
 ## How do I pass Crate /Stuff to another user?
 
 At this moment, there is no way to do that. But we promise to introduce Trade system by the end of August / mid-September.
 
-## What drops from crates? And what is it for?
+## What are the drops from crates? And what are they for?
 
 Gold, Coal, Curse, Blessing, Acid, Nickname Change, Title change, Paint for nickname, Paint for title, Game (Gift or key).  
 **Gold/Coal** - Pretty self-еxplanatory.
@@ -156,6 +158,7 @@ The latest news link is always posted on the main page right above your nickname
 
 
 **The authors FAQ:**  
-Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel  
+Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
+
 **FAQ updated 08.12.2013**  
 **Translited by Gis_Nohus**
