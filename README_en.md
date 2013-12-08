@@ -33,7 +33,7 @@ You can join all you want, and sharing is always voluntary. But remember: girls 
 
 Level is what distinguishes a boy from man. The higher your level is, the more coal you get per hour, invites per day and girls per lifetime. Also you can bump your trade topic more often.
 The only way to increase your level is to create giveaways. That is our way of saying "Thank you" to contributors.
-You can find more information about levels here[here](http://gameminer.net/forum/1/2069).
+You can find more information about levels [here](http://gameminer.net/forum/1/2069).
 
 ## How do I create a giveaway?
 
@@ -61,7 +61,7 @@ No.
 
 ##  Giveaway which I entered was deleted; will I get back coal/gold?
 
-Yes, you will get back your gold.
+Yes, you will get back your gold. But no, you will not get back your coal.
 
 ## Can I give away the game if I just won it?
 
@@ -101,7 +101,7 @@ Invites will be avalible on the next day.
 ## Who are moderators on this site?
 
 RU mods: [Anthony](http://gameminer.net/profile/Anthony), [Bee](http://gameminer.net/profile/Bee), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [Schweps](http://gameminer.net/profile/Schweps), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol),  
-English mods: [devil](http://gameminer.net/profile/devil), [ErnisD](http://gameminer.net/profile/ErnisD)  
+English mods: [devil](http://gameminer.net/profile/devil), [ErnisD](http://gameminer.net/profile/ErnisD), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
 You can ask them if you need some help.
 
 ## Where can I get crates?
@@ -157,5 +157,5 @@ The latest news link is always posted on the main page right above your nickname
 
 **The authors FAQ:**  
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel  
-**FAQ updated 23.08.2013**  
+**FAQ updated 08.12.2013**  
 **Translited by Gis_Nohus**
