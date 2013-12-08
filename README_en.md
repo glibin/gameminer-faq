@@ -102,7 +102,7 @@ Invites will be avalible from the next day.
 
 ## Who are moderators on this site?
 
-RU mods: [Anthony](http://gameminer.net/profile/Anthony), [Bee](http://gameminer.net/profile/Bee), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [Schweps](http://gameminer.net/profile/Schweps), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol)  
+RU mods: [Anthony](http://gameminer.net/profile/Anthony), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol)  
 English mods: [devil](http://gameminer.net/profile/devil), [ErnisD](http://gameminer.net/profile/ErnisD), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
 You can ask them if you need some help.
 
@@ -160,5 +160,5 @@ The latest news link is always posted on the main page right above your nickname
 **The authors FAQ:**  
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
 
-**FAQ updated 08.12.2013**  
+**FAQ updated 09.12.2013**  
 **Translited by Gis_Nohus**
