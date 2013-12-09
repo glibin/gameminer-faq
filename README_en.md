@@ -37,10 +37,14 @@ You can find more information about levels [here](http://gameminer.net/forum/1/2
 
 ## How do I create a giveaway?
 
-Go here: [http://gameminer.net/giveaway/create](http://gameminer.net/giveaway/create) 
+Go here: [http://gameminer.net/giveaway/create](http://gameminer.net/giveaway/create)
+
 Choose the game. If the game you're trying to giveaway is not in the list, don’t try to choose it - you will be banned. 
+
 After selecting the game, you can change the distribution of additional parameters, such as price and expiration date. 
-There is no time limit for gifts, but it is not recommended to put giveaways for more than couple of months. The maximum giveaway running time for keys is 1 week. 
+
+There is no time limit for gifts, but it is not recommended to put giveaways for more than couple of months. The maximum giveaway running time for keys is 1 week.  
+
 [How to send a Steam gift (With pictures!)](http://gameminer.net/instruction)  
 [Detailed instructions for creating giveaways (with pictures) from Gis_Nohus. Only RU now, but will be translited soon.](http://gameminer.net/forum/1/18805)
 
@@ -61,7 +65,7 @@ Sure, be our guest.
 
 No.
 
-## A giveaway which I entered was deleted. Will I get back my coal/gold?
+## A giveaway which I entered was deleted; will I get back my coal/gold?
 
 Yes, you will get back your gold. But no, you will not get back your coal.
 
@@ -82,7 +86,7 @@ If you still didn’t receive your gift via e-mail, that means that Steam-server
 
 ## What type of games can I contribute?
 
-We accept every type of gifts and keys that are redeemable on Steam. Betas or demos are forbidden. If you would like to contribute non-steam key, you should contact the administration first.
+We accept every type of Steam gifts and keys that are redeemable on Steam. Betas or demos are forbidden. If you would like to contribute non-steam key, you should contact the administration first.
 
 ## Tournaments?
 
@@ -103,7 +107,9 @@ Invites will be avalible from the next day.
 ## Who are moderators on this site?
 
 RU mods: [Anthony](http://gameminer.net/profile/Anthony), [Haoose](http://gameminer.net/profile/Haoose), [LordConqueror](http://gameminer.net/profile/LordConqueror), [sputNIK37](http://gameminer.net/profile/sputNIK37), [yurijpol](http://gameminer.net/profile/yurijpol)  
-English mods: [devil](http://gameminer.net/profile/devil), [ErnisD](http://gameminer.net/profile/ErnisD), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
+
+English mods: [devil](http://gameminer.net/profile/devil), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
+
 You can ask them if you need some help.
 
 ## Where can I get crates?
@@ -161,4 +167,5 @@ The latest news link is always posted on the main page right above your nickname
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
 
 **FAQ updated 09.12.2013**  
+
 **Translated by Gis_Nohus**
