@@ -61,7 +61,7 @@ Sure, be our guest.
 
 No.
 
-## A giveaway which I entered was deleted; will I get back my coal/gold?
+## A giveaway which I entered was deleted. Will I get back my coal/gold?
 
 Yes, you will get back your gold. But no, you will not get back your coal.
 
@@ -82,7 +82,7 @@ If you still didn’t receive your gift via e-mail, that means that Steam-server
 
 ## What type of games can I contribute?
 
-We accept every type of Steam gifts and keys that are redeemable on Steam. Betas or demos are forbidden. If you would like to contribute non-steam key, you should contact the administration first.
+We accept every type of gifts and keys that are redeemable on Steam. Betas or demos are forbidden. If you would like to contribute non-steam key, you should contact the administration first.
 
 ## Tournaments?
 
@@ -125,12 +125,12 @@ At this moment, there is no way to do that. But we promise to introduce Trade sy
 ## What are the drops from crates? And what are they for?
 
 Gold, Coal, Curse, Blessing, Acid, Nickname Change, Title change, Paint for nickname, Paint for title, Game (Gift or key).  
-**Gold/Coal** - Pretty self-еxplanatory.
-**Curse/Blessing** - Allows you to put a message in the profile of a friend or foe on the site.  
-**Acid** - Allows you to "wash away" one curse/blessing in your profile.  
-**Name Deed/Status Deed** - Allows you to change user name or status for free (scroll disappears after use)  .
-**Dye** - Dyes a nickname/statuss. (To see your new color, you need to re-login)  
-**Game** - Congratulations! You have won a game. You will receive a PM. List of games that can drop from crates can be found [here](http://gameminer.ru/drop/gifts).
+* **Gold/Coal** - Pretty self-еxplanatory.
+* **Curse/Blessing** - Allows you to put a message in the profile of a friend or foe on the site.  
+* **Acid** - Allows you to "wash away" one curse/blessing in your profile.  
+* **Name Deed/Status Deed** - Allows you to change user name or status for free (scroll disappears after use)  .
+* **Dye** - Dyes a nickname/statuss. (To see your new color, you need to re-login)  
+* **Game** - Congratulations! You have won a game. You will receive a PM. List of games that can drop from crates can be found [here](http://gameminer.ru/drop/gifts).
 
 ## Do curses or blessings affect my chance to win?
 
@@ -144,11 +144,11 @@ These are the reasons that will get you banned:
 + Begging/Spam/Referrlal links 
 + Violation of the [chat rules](http://gameminer.net/forum/1/14297)  
 
-## I want to sell a game or an item, but I do not want to create a thread in the forum, is it possible?
+## Can I sell a game or an item without creating a thread in the forum?
 
-Yes, you can use the trade chat. To get there, you press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For sale / exchange games) .
+Yes, you can use the trade chat. To get there, you press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For saling and exchanging games) .
 
-## I want to sell Steam/Origin accounts, where and how can I do that?
+## I want to sell Steam/Origin accounts. Where and how can I do that?
 
 Selling of accounts is carried out only on the [Black Market](http://gameminer.net/forum/3)  
 
@@ -161,4 +161,4 @@ The latest news link is always posted on the main page right above your nickname
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
 
 **FAQ updated 09.12.2013**  
-**Translited by Gis_Nohus**
+**Translated by Gis_Nohus**
