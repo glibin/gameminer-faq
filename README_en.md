@@ -130,7 +130,8 @@ At this moment, there is no way to do that. But we promise to introduce Trade sy
 
 ## What are the drops from crates? And what are they for?
 
-Gold, Coal, Curse, Blessing, Acid, Nickname Change, Title change, Paint for nickname, Paint for title, Game (Gift or key).  
+Gold, Coal, Curse, Blessing, Acid, Nickname Change, Title change, Paint for nickname, Paint for title, Game (Gift or key).
+* **Important Documents** - Allows you to change your Nick or your Title.
 * **Gold/Coal** - Pretty self-еxplanatory.
 * **Curse/Blessing** - Allows you to put a message in the profile of a friend or foe on the site.  
 * **Acid** - Allows you to "wash away" one curse/blessing in your profile.  
@@ -148,6 +149,7 @@ These are the reasons that will get you banned:
 + Creating fake giveaways
 + Having more than 1 account
 + Begging/Spam/Referrlal links 
++ Distribution of keys purchased by stolen Credit Cards
 + Violation of the [chat rules](http://gameminer.net/forum/1/14297)  
 
 ## Can I sell a game or an item without creating a thread in the forum?
@@ -166,6 +168,6 @@ The latest news link is always posted on the main page right above your nickname
 **The authors FAQ:**  
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
 
-**FAQ updated 09.12.2013**  
+**FAQ updated 15.12.2013**  
 
 **Translated by Gis_Nohus**
