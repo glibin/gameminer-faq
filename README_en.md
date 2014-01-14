@@ -156,10 +156,6 @@ These are the reasons that will get you banned:
 
 Yes, you can use the trade chat. To get there, you press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For saling and exchanging games) .
 
-## I want to sell Steam/Origin accounts. Where and how can I do that?
-
-Selling of accounts is carried out only on the [Black Market](http://gameminer.net/forum/3)  
-
 ## Where I can find your news archive?
 
 The latest news link is always posted on the main page right above your nickname. Older news can be found in a [special section](http://gameminer.net/news).
