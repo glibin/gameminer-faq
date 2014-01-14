@@ -164,6 +164,6 @@ The latest news link is always posted on the main page right above your nickname
 **The authors FAQ:**  
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
 
-**FAQ updated 15.12.2013**  
+**FAQ updated 14.01.2014**  
 
 **Translated by Gis_Nohus**
