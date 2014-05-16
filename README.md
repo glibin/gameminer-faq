@@ -107,7 +107,7 @@
 
 ## Кто является модератором на сайте?
 
-Модераторами сайта в данный момент являются: [Anthony](http://gameminer.ru/profile/Anthony), [Diodorus](http://gameminer.ru/profile/Diodorus), [Haoose](http://gameminer.ru/profile/Haoose), [LordConqueror](http://gameminer.ru/profile/LordConqueror), [sputNIK37](http://gameminer.ru/profile/sputNIK37), [yurijpol](http://gameminer.ru/profile/yurijpol)  
+Модераторами сайта в данный момент являются: [Anthony](http://gameminer.ru/profile/Anthony), [Diodorus](http://gameminer.ru/profile/Diodorus), [Haoose](http://gameminer.ru/profile/Haoose), [LordConqueror](http://gameminer.ru/profile/LordConqueror), [sputNIK37](http://gameminer.ru/profile/sputNIK37), [SqweeZy](http://gameminer.ru/profile/SqweeZy), [yurijpol](http://gameminer.ru/profile/yurijpol)  
 Англоязычные модераторы: [devil](http://gameminer.ru/profile/devil), [ErnisD](http://gameminer.ru/profile/ErnisD), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
 К ним можно обращаться по разным проблемам.
 
