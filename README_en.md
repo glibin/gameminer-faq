@@ -154,7 +154,7 @@ These are the reasons that will get you banned:
 
 ## Can I sell a game or an item without creating a thread in the forum?
 
-Yes, you can use the trade chat. To get there, you press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For saling and exchanging games) .
+Yes, you can use the trade chat. To get there, press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For saling and exchanging games) .
 
 ## Where I can find your news archive?
 
@@ -164,6 +164,6 @@ The latest news link is always posted on the main page right above your nickname
 **The authors FAQ:**  
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
 
-**FAQ updated 16.05.2014**  
+**FAQ updated 13.07.2014**  
 
 **Translated by Gis_Nohus**
