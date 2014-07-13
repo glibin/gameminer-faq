@@ -1,18 +1,18 @@
 ## What is Gameminer.net?
 
-[GameMiner.net](http://gameminer.net/) is a unique and cool place where you can win Steam games absolutely for free.
+[GameMiner.net](http://gameminer.net/) is a unique and cool place where you can win Steam games for free.
 
 ## How do I win? And how can I increase my chances of winning?
 
-By participating in various giveaways. There is no way to increase your chance because the winner is picked randomly from all the giveaway participants. But if you choose a giveaway with less people in it, your chances increase. 
+By participating in various giveaways. There is no other way of increasing your chances because the winner is picked randomly. But if you choose a giveaway with less people in it, your chances of winning increases.
 
 ## How do you get so many games to give away?
 
-Common people like you and me give away some cool stuff here. Yeah, that's right, sharing is cool.
+People like you and me giveaway some cool stuff here. Yeah, that's right, sharing is cool.
 
-## What are gold and coal? How do I get them?
+## What is gold and coal? How do I get them?
 
-These are the resources that you use to join giveaways. Coal is free and replenishes hourly. Gold is way cooler, but you have to buy it or earn by creating gold giveaways. Minimum purchase amount - 20 gold.
+These are the resources that you need to join giveaways. Coal is free and replenishes hourly. Gold is way cooler, but you have to buy it or earn by creating gold giveaways. Minimum purchase amount - 20 gold.
 
 ## What happens to my coal if I get bonus coal from creating a giveaway and it exceeds the maximum amount mentioned in my profie?
 
@@ -23,16 +23,16 @@ You will get all the coal you've earned from your giveaway. Maximum coal is the 
 Common giveaways are cornerstone of GameMiner.net. Most games are being given away through common giveaways. But all the expensive or very neat games are usually given away in gold giveaways. Also, there are less participants, so your chances to win are way higher.  
 And we use profits that come from gold giveaways towards site upkeep. Zag-zag.  
 In Private giveaway, you can give away everything you want (even your stinky socks), but in private giveaway you won't earn experience or resources.  
-The sandpit giveaways are created by new members who have't given away any games or have only given a few approved giveaways. You should enter them with caution, especially if it's an expensive game..
+The sandpit giveaways are created by new members who have't given away any games or have only given a few approved giveaways. You should enter them with caution, especially if it's an expensive game.
 
-## Is it mandatory to create giveaways? Can I just join all the giveaways instead of creating them?
+## Is it mandatory to create giveaways? Can't I just join all the giveaways instead of creating them?
 
 You can join all you want, and sharing is always voluntary. But remember: girls like generous dudes.
 
 ## What's the deal with levels?
 
 Level is what distinguishes a boy from man. The higher your level is, the more coal you get per hour, invites per day and girls per lifetime. Also you can bump your trade topic more often.
-The only way to increase your level is to create giveaways. That is our way of saying "Thank you" to contributors.
+The only way to increase your level is to create more giveaways. That is our way of saying "Thank you" to contributors.
 You can find more information about levels [here](http://gameminer.net/forum/1/2069).
 
 ## How do I create a giveaway?
@@ -82,7 +82,7 @@ Well, you have few ways:
 ## Okay, so I won. How do I get my precious game? And what to do if I still didn't receive the gift?
 
 Steam gifts are automaticaly sent via email. Keys are sent via private messages. Don't forget to use your real email.  
-If you still didn’t receive your gift via e-mail, that means that Steam-servers are under heavy load. Try to [change your E-mail](http://gameminer.ru/account/mail) and then press «Resend Gift» button on giveaway page.
+If you don’t receive your gift via e-mail, that means that Steam-servers are under heavy load or your e-mail id is wrong. Try to [change your E-mail](http://gameminer.ru/account/mail) and then press «Resend Gift» button on giveaway page.
 
 ## What type of games can I contribute?
 
@@ -114,7 +114,7 @@ You can ask them if you need some help.
 
 ## Where can I get crates?
 
-Crates drops for given for playing mini-slots, for creating and entering giveaways. News about it: [http://gameminer.ru/news/78](http://gameminer.ru/news/78) In future there will be a trade function and you will be able to trade for items from your Gameminer-inventory for boxes / keys / paint and other stuff.
+Crate drops are given for playing mini-slots, for creating and entering giveaways. News about it: [http://gameminer.ru/news/78](http://gameminer.ru/news/78) In future there will be a trade function and you will be able to trade for items from your Gameminer-inventory for boxes / keys / paint and other stuff.
 
 ## Where can I get a key for my crates?
 
@@ -124,7 +124,7 @@ At this moment your only option is to buy them. Here: [http://gameminer.ru/inven
 
 Go to inventory: [http://gameminer.net/account/inventory](http://gameminer.net/account/inventory) Choose key, press «Use». Then choose the crate you like. After opening it you will see your loot from the crate. The crate and key will dissappear after use.
 
-## How do I pass Crate /Stuff to another user?
+## How do I pass Crate / Stuff to another user?
 
 At this moment, there is no way to do that. But we promise to introduce Trade system by the end of August / mid-September.
 
@@ -141,7 +141,7 @@ Gold, Coal, Curse, Blessing, Acid, Nickname Change, Title change, Paint for nick
 
 ## Do curses or blessings affect my chance to win?
 
-No, it is just a replacement for boring reputation system.
+No, it is just a replacement for the otherwise boring reputation system.
 
 ## What should I do to get banned here?
 
@@ -154,7 +154,7 @@ These are the reasons that will get you banned:
 
 ## Can I sell a game or an item without creating a thread in the forum?
 
-Yes, you can use the trade chat. To get there, you press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For saling and exchanging games) .
+Yes, you can use the trade chat. To get there, press the «+» button at the top of the chat and choose a suitable chat room: «Trade items» (for sale / exchange cards, TF2/Dota2 items and items from other games) or «Trade Games» (For saling and exchanging games) .
 
 ## Where I can find your news archive?
 
@@ -164,6 +164,6 @@ The latest news link is always posted on the main page right above your nickname
 **The authors FAQ:**  
 Administration Gameminer.net, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel, DragoonHP  
 
-**FAQ updated 16.05.2014**  
+**FAQ updated 13.07.2014**  
 
 **Translated by Gis_Nohus**
