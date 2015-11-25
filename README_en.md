@@ -106,7 +106,7 @@ Invites will be avalible from the next day.
 
 ## Who are moderators on this site?
 
-RU mods: [C0mar.](http://gameminer.net/profile/C0mar.), [Haoose](http://gameminer.net/profile/Haoose), [Plotays](http://gameminer.net/profile/Plotays), [sputNIK37](http://gameminer.net/profile/sputNIK37), [SqweeZy](http://gameminer.ru/profile/SqweeZy), [yurijpol](http://gameminer.net/profile/yurijpol)  
+RU mods: [C0mar.](http://gameminer.net/profile/C0mar.), [Diodorus](http://gameminer.net/profile/Diodorus), [Haoose](http://gameminer.net/profile/Haoose), [HAOSov](http://gameminer.ru/profile/HAOSov), [Plotays](http://gameminer.net/profile/Plotays), [sputNIK37](http://gameminer.net/profile/sputNIK37), [SqweeZy](http://gameminer.ru/profile/SqweeZy), [yurijpol](http://gameminer.net/profile/yurijpol)  
 
 English mods: [devil](http://gameminer.net/profile/devil), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
 
