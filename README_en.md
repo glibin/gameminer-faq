@@ -63,7 +63,7 @@ Sure, be our guest.
 
 ## Can I leave a giveaway?
 
-No.
+You can leave golden and coal giveaways within an hour after joining it. You can leave only once, if you enter the same giveaway again, you won't be able to leave it.
 
 ## A giveaway which I entered was deleted; will I get back my coal/gold?
 
