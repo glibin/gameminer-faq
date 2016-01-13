@@ -82,7 +82,7 @@ Well, you have few ways:
 ## Okay, so I won. How do I get my precious game? And what to do if I still didn't receive the gift?
 
 Steam gifts are automaticaly sent via email. Keys are sent via private messages. Don't forget to use your real email.  
-If you don’t receive your gift via e-mail, that means that Steam-servers are under heavy load or your e-mail id is wrong. Try to [change your E-mail](http://gameminer.ru/account/mail) and then press «Resend Gift» button on giveaway page.
+If you don’t receive your gift via e-mail, that means that Steam-servers are under heavy load or your e-mail id is wrong. Try to [change your E-mail](http://gameminer.net/account/mail) and then press «Resend Gift» button on giveaway page.
 
 ## What type of games can I contribute?
 
@@ -106,19 +106,19 @@ Invites will be avalible from the next day.
 
 ## Who are moderators on this site?
 
-RU mods: [C0mar.](http://gameminer.net/profile/C0mar.), [Diodorus](http://gameminer.net/profile/Diodorus), [Haoose](http://gameminer.net/profile/Haoose), [HAOSov](http://gameminer.ru/profile/HAOSov), [Plotays](http://gameminer.net/profile/Plotays), [sputNIK37](http://gameminer.net/profile/sputNIK37), [SqweeZy](http://gameminer.ru/profile/SqweeZy), [yurijpol](http://gameminer.net/profile/yurijpol)  
+RU mods: [C0mar.](http://gameminer.net/profile/C0mar.), [Diodorus](http://gameminer.net/profile/Diodorus), [Haoose](http://gameminer.net/profile/Haoose), [HAOSov](http://gameminer.net/profile/HAOSov), [Plotays](http://gameminer.net/profile/Plotays), [sputNIK37](http://gameminer.net/profile/sputNIK37), [SqweeZy](http://gameminer.net/profile/SqweeZy), [yurijpol](http://gameminer.net/profile/yurijpol)  
 
-English mods: [devil](http://gameminer.net/profile/devil), [Siatverbal](http://gameminer.ru/profile/Siatverbal)  
+English mods: [devil](http://gameminer.net/profile/devil), [Siatverbal](http://gameminer.net/profile/Siatverbal)  
 
 You can ask them if you need some help.
 
 ## Where can I get crates?
 
-Crate drops are given for playing mini-slots, for creating and entering giveaways. News about it: [http://gameminer.ru/news/78](http://gameminer.ru/news/78) In future there will be a trade function and you will be able to trade for items from your Gameminer-inventory for boxes / keys / paint and other stuff.
+Crate drops are given for playing mini-slots, for creating and entering giveaways. News about it: [http://gameminer.net/news/78](http://gameminer.net/news/78) In future there will be a trade function and you will be able to trade for items from your Gameminer-inventory for boxes / keys / paint and other stuff.
 
 ## Where can I get a key for my crates?
 
-At this moment your only option is to buy them. Here: [http://gameminer.ru/inventory/keys](http://gameminer.ru/inventory/keys) (1 key = 20 gold)
+At this moment your only option is to buy them. Here: [http://gameminer.net/inventory/keys](http://gameminer.net/inventory/keys) (1 key = 20 gold)
 
 ## How to open crate?
 
@@ -137,7 +137,7 @@ Gold, Coal, Curse, Blessing, Acid, Nickname Change, Title change, Paint for nick
 * **Acid** - Allows you to "wash away" one curse/blessing in your profile.  
 * **Name Deed/Status Deed** - Allows you to change user name or status for free (scroll disappears after use)  .
 * **Dye** - Dyes a nickname/statuss. (To see your new color, you need to re-login)  
-* **Game** - Congratulations! You have won a game. You will receive a PM. List of games that can drop from crates can be found [here](http://gameminer.ru/drop/gifts).
+* **Game** - Congratulations! You have won a game. You will receive a PM. List of games that can drop from crates can be found [here](http://gameminer.net/drop/gifts).
 
 ## Do curses or blessings affect my chance to win?
 
