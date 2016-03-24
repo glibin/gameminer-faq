@@ -31,7 +31,7 @@ You can join all you want, and sharing is always voluntary. But remember: girls 
 
 ## What's the deal with levels?
 
-Level is what distinguishes a boy from man. The higher your level is, the more coal you get per hour, invites per day and girls per lifetime. Also you can bump your trade topic more often.
+Level is what distinguishes a boy from man. The higher your level is, the more coal you get per hour and girls per lifetime. Also you can bump your trade topic more often.
 The only way to increase your level is to create more giveaways. That is our way of saying "Thank you" to contributors.
 You can find more information about levels [here](http://gameminer.net/forum/1/2069).
 
