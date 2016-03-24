@@ -96,14 +96,6 @@ These are special events created by admins or regular users. They use tournament
 
 No way. We will ban you and eat your cookies!
 
-## Where can I get an invite? And why is it needed?
-
-Invite is a code that you need to register on GameMiner. You can get it here: [http://gameminer.net/account/invites](http://gameminer.net/account/invites) (generated once a day), or here: [http://games-gen.com/GM-invite](http://games-gen.com/GM-invite) (collection of invitations from old-timers and admins)
-
-## I've registered but when I press «Invite friend» button, there is nothing.
-
-Invites will be avalible from the next day.
-
 ## Who are moderators on this site?
 
 RU mods: [C0mar.](http://gameminer.net/profile/C0mar.), [Diodorus](http://gameminer.net/profile/Diodorus), [Haoose](http://gameminer.net/profile/Haoose), [HAOSov](http://gameminer.net/profile/HAOSov), [Plotays](http://gameminer.net/profile/Plotays), [sputNIK37](http://gameminer.net/profile/sputNIK37), [SqweeZy](http://gameminer.net/profile/SqweeZy), [yurijpol](http://gameminer.net/profile/yurijpol)  
