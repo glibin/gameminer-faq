@@ -100,10 +100,6 @@
 
 Нет. Только один аккаунт на человека. Нарушение этого правила ведет к бану всей цепочки аккаунтов, вне зависимости от количества раздач и купленного золота.)
 
-## Где взять инвайт? И зачем он нужен? 
-
-Инвайты представляют собой код, необходимый для регистрации на сайте. Посмотреть Ваши инвайты и отправить их друзьям можно тут: [http://gameminer.net/account/invites](http://gameminer.net/account/invites) (генерируются раз в сутки), или тут: [http://games-gen.com/GM-invite](http://games-gen.com/GM-invite) (сборник инвайтов от старожилов и администрации сайта).
-
 ## Кто является модератором на сайте?
 
 Модераторами сайта в данный момент являются: [C0mar.](http://gameminer.net/profile/C0mar.), [Diodorus](http://gameminer.net/profile/Diodorus), [Haoose](http://gameminer.net/profile/Haoose), [HAOSov](http://gameminer.net/profile/HAOSov), [Plotays](http://gameminer.net/profile/Plotays), [sputNIK37](http://gameminer.net/profile/sputNIK37), [SqweeZy](http://gameminer.net/profile/SqweeZy), [yurijpol](http://gameminer.net/profile/yurijpol)
